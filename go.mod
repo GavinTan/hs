@@ -1,4 +1,4 @@
-module hs
+module github.com/GavinTan/hs
 
 go 1.19
 
